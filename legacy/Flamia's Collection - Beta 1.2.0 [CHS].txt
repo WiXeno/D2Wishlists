@@ -1,5 +1,5 @@
 title:Flamia's Collection - Beta 1.2.0 [CHS]
-description:更适合国人噶点体质的愿望清单，不包容，特主观。覆盖全部 S26~S27 的武器及部分 S23~S25 武器，均带有评注。黑盒创始帖：https://www.xiaoheihe.cn/app/bbs/link/161140805；仓库：https://github.com/WiXeno/D2Wishlists；更新日志：https://flamia.notion.site/24da72279be08002a8e8f880cb942829；愿望清单链接：https://raw.githubusercontent.com/WiXeno/D2Wishlists/refs/heads/main/Flamia-Collection.json；Perk 具体数据和输出及致死能力预估来源于 Clarity、Destiny Data Compendium、Foundry、Boss Damage Spreadsheet。
+description:更适合国人噶点体质的愿望清单，不包容，特主观。覆盖全部 S26~S27 的武器及部分 S23~S25 武器，均带有评注。黑盒创始帖：https://www.xiaoheihe.cn/app/bbs/link/161140805；仓库：https://github.com/WiXeno/D2Wishlists；更新日志：https://flamia.notion.site/24da72279be08002a8e8f880cb942829；愿望清单链接：https://raw.githubusercontent.com/WiXeno/D2Wishlists/refs/heads/main/Flamia-Collection.txt；Perk 具体数据和输出及致死能力预估来源于 Clarity、Destiny Data Compendium、Foundry、Boss Damage Spreadsheet。
 
 // Boondoggle Mk. 55 - PvP - Hipfire Only (pvp)
 //notes: 玩具 🎯2.5 ⚔️B / 大师射程 - 比较有意思的四重腰射组合（起源 + 武器模组 + 双腰射 Perk），开镜稳定性很低。放在和平腿上或许又有点实在的强度。不太适合 3v3。 tags:pvp
